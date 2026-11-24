@@ -1,0 +1,8 @@
+data/*
+uploads/*
+.env
+.env.*
+.vercel/
+.openai/
+sample-materials/
+node_modules/
